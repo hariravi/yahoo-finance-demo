@@ -13,6 +13,7 @@ The output of this code will be an excel (which will be formed in the same direc
 
 Prerequisites:
 You need to install a few python libraries, you can do so using pip. To install pip on a mac, in the terminal, type:
+
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 python get-pip.py
