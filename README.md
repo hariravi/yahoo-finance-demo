@@ -28,4 +28,6 @@ pip install requests-html
 
 pip install openpyxl
 
+pip install pandas
+
 (and maybe more, depending on what python libraries your computer has)
