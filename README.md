@@ -14,9 +14,17 @@ The output of this code will be an excel (which will be formed in the same direc
 Prerequisites:
 You need to install a few python libraries, you can do so using pip. To install pip on a mac, in the terminal, type:
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
 python get-pip.py
-And then run the following commands: pip install yahoo_fin
+
+And then run the following commands: 
+
+pip install yahoo_fin
+
 pip install lxml
+
 pip install requests-html
+
 pip install openpyxl
+
 (and maybe more, depending on what python libraries your computer has)
