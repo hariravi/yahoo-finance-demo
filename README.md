@@ -2,6 +2,7 @@
 Very basic python demo using yahoo finance module
 
 File: optionData.py
+
 Description: a very basic example of using the yahoo finance module in python, in this script I just save all future option data, including strike price, volatility, etc.
 
 Usage: in the terminal, type
